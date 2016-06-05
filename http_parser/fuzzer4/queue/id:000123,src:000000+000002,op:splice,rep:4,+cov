@@ -1,0 +1,11 @@
+HTTP/1.1
+co0ùBontent-Length:& 20
+Cope: in
+Transfer-Encoding: chunked
+
+4
+test
+10;0123456789abcdef
+0
+Test-header: foobar
+

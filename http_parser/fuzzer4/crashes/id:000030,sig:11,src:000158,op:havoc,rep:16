@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Content-Length: 20
+Contente: tL
+Transfer-Encoding: chunked
+
+4
+tbar
+
+
+-Eeader:îîÏîîchunkesr-header:îîÏîîchun
+
+4
+test
+?10/012345789abcîîî foobar
+
+

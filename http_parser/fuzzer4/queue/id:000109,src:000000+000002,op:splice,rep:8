@@ -1,0 +1,7 @@
+HTTP/1.1
+co0Conte t-Length: 20
+Cone: tn
+Transfer-Encoding: chunked
+
+46789abcdef
+0ä	Tÿÿ

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Lenguh: 20
+Cone: tn
+Transfer-Encoding: chunked
+
+4
+teït
+1.1 200 OK6789abcde|
+0
+Teçt-header: foobarcontent-range
+
+

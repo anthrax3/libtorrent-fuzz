@@ -1,0 +1,15 @@
+HTTP/1.1 200 O¶
+Ch: 20
+Contente:0
+Contente: tn
+Transfer-Encoding: chunked
+
+4
+test
+10
+0123456789ab 200 O¶
+Ch: 20
+Contente:0
+Cbar
+
+

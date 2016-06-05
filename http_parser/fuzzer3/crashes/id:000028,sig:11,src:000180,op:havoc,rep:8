@@ -1,0 +1,13 @@
+HTTP/1cR1 200 OK&Coent-Length: 20
+Contentntent-Le[gth: 20
+Contente: tn
+Transfer-Encoding: chunkedC
+-Enco`ing: c
+01: chunked
+
+-89abc9abcdef
+Ö
+T½½½½½½½½½½def
+Ö
+GETT½½½½½½½½½½½est-headyr: foobar
+

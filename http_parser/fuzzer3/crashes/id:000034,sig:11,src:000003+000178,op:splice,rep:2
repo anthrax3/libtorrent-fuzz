@@ -1,0 +1,10 @@
+HTTP/1.0 700HTTP/1.0 700 OK
+Content-Len@t:h: 20"Contente: tn
+Transfer-Encoding: chunked
+
+4
+…est-109abcdef
+0Cont nte:
+Test-header: foobar
+
+

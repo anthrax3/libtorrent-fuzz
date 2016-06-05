@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Contentÿength: 2 
+Contente: tn
+Transfer-Encoding: chunked
+/-Enco`ing: c
+012«4567ng: chunked
+
+-89abc9abcdef
+Ö
+T½½½½½½½½½½def
+foobar
+
+

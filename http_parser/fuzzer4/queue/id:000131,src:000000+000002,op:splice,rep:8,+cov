@@ -1,0 +1,12 @@
+HTTP/1.1
+co0 Conten|-Length: 20
+Cone: tn&
+Transfer-Encoding: chunked 
+
+4
+teRt
+10
+0123456789abcdefö/
+Test-header: foobar
+OK Conten|
+

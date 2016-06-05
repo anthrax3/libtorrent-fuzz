@@ -1,0 +1,13 @@
+HTTP/1.
+content-range: bytes 4-8t-
+Contente: tn
+Transfer-Encoding: chunked
+-Enco`ing: c
+01: chunked
+
+-89abc9abcdef
+Ö
+T½½½½½½½½½½def
+Öl
+T½½½½½½½½½½½est-headyr: foobar
+

@@ -1,0 +1,10 @@
+HTTP/1.1
+co0	C‚ntent-Length: 20
+Cone: tn
+Transfer-Encoding: chunked
+
+4€ÿtest
+10õ	C‚ntent-Length: A0!
+ContenŠeader: foobar
+
+

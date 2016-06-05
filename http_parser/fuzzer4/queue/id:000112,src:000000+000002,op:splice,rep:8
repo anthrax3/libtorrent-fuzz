@@ -1,0 +1,12 @@
+HTTP/1.13co0 5K
+Content-Length: 20
+Contente: tn
+Transfer-Encoding: chunked
+
+4
+test
+10
+G123456789abcdef
+0
+-header: foobTr
+

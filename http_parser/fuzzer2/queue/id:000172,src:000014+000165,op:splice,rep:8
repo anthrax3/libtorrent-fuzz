@@ -1,0 +1,19 @@
+0
+:1
+1:1
+:1
+:OK
+Con-Lengta: 2-
+Contente: tmò
+Transfer-Encoding: chunked
+
+4
+test
+10
+0123456789aèdef
+0
+Test-:eadfoobar1
+1:1
+:?
+:O
+

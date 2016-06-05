@@ -1,0 +1,25 @@
+
+Content-Length: 20
+Contente: HT?P/1.1 20° OK
+Content-Length: 20
+Contente: tn
+Transfer-Encoding: chunked
+
+4ConnHhunked&
+
+4Conne000000ÿ000000000:
+00c00000000000028271
+00P: 000
+-1: 1
+
+HTTP/257 100 -128271
+00P: 000
+-1: 26
+
+HTTP/0 100 -128271
+00P: 000
+
+0 00000 0 0000
+0000
+0000
+-

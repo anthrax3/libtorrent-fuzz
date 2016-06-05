@@ -1,0 +1,13 @@
+ TTP/1.1 200 OK
+_o:tPength: 20
+Contente: tn
+Transfer-Encoding: chunked
+
+4
+tRst
+10
+0123456789ansfer-Ebcdef
+0€
+Test-header: fooba‚
+Š
+

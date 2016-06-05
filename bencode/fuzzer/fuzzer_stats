@@ -1,0 +1,25 @@
+start_time     : 1464912479
+last_update    : 1465140590
+fuzzer_pid     : 29855
+cycles_done    : 10
+execs_done     : 352219766
+execs_per_sec  : 443.02
+paths_total    : 1271
+paths_favored  : 154
+paths_found    : 57
+paths_imported : 843
+max_depth      : 3
+cur_path       : 1121
+pending_favs   : 0
+pending_total  : 185
+variable_paths : 0
+bitmap_cvg     : 5.10%
+unique_crashes : 0
+unique_hangs   : 1
+last_path      : 1465136717
+last_crash     : 0
+last_hang      : 1464973098
+exec_timeout   : 20
+afl_banner     : fuzzer
+afl_version    : 2.13b
+command_line   : afl-fuzz -i testcases -o syncdir/ -M fuzzer -Z 22 -x dict/ -- /root/simple_client @@

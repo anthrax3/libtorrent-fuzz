@@ -1,0 +1,11 @@
+HTTP/1.ßßßßßßßßßß1text/plain
+Transfer-Encoding: chunked
+
+4
+test
+10
+0J23456789abcdef
+0
+Test-header: foobar
+
+

@@ -1,0 +1,13 @@
+HTTP/1.1tent-Length: 20
+Content-Type: text
+Transfer-Encoding:chunked/plain
+Transfer-Encoding: chunked
+
+4
+test
+10
+0123456789abcdef
+0
+Test-header: fo‘bar
+
+

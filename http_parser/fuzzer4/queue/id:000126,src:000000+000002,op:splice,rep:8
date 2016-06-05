@@ -1,0 +1,12 @@
+HTuP/1.1+co0 OK
+Content-Length: 20
+Gone: tn
+Transfer-Encoding: chunked
+
+4
+test
+10
+0123456789abc,ef
+0
+Toobam
+
